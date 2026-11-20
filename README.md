@@ -1,5 +1,17 @@
 # mdm-plugin-digital-object-identifiers
 
+> [!Caution]
+>
+> This repository is archived and no longer maintained.
+>
+> This code may contain known security vulnerabilities. It no longer receives security patches, dependency updates or technical support.
+> 
+> Do not use this repository for new development or production deployments.
+>
+> Historical reference : This repository remains available for historical reference and migration purposes only. Issues and pull requests are closed, and no further releases 
+> are planned.
+>
+
 | Branch | Build Status |
 | ------ | ------------ |
 | master | [![Build Status](https://jenkins.cs.ox.ac.uk/buildStatus/icon?job=Mauro+Data+Mapper+Plugins%2Fmdm-plugin-digital-object-identifiers%2Fmain)](https://jenkins.cs.ox.ac.uk/blue/organizations/jenkins/Mauro%20Data%20Mapper%20Plugins%2Fmdm-plugin-digital-object-identifiers/branches) |
